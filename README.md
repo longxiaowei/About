@@ -1,6 +1,6 @@
-# DailyRocord
-日常杂事记录
+# About
+Welcome to come here
  - create by slxyTinyNine
- - date: 2018-03-05
- - update 拉钩 2018-03-06
+ - [git](https://github.com/longxiaowei) 2018-03-05
+ - [拉钩]() 2018-03-06
 
